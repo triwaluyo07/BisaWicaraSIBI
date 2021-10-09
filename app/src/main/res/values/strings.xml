@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bisa Wicara</string>
+    <string name="app_desc">Belajar Mudah Bahasa Isyarat</string>
+    <string name="team_name">TeknoXera</string>
+    <string name="logo">Logo</string>
+    <string name="version">Beta v1.0</string>
+    <string name="dashb">DASHBOARD</string>
+    <string name="dictionary">Kamus</string>
+    <string name="test">Test Skill</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="report_bug">Laporkan Bug</string>
+    <string name="huruf">Huruf</string>
+    <string name="angka">Angka</string>
+    <string name="splash_logo">Splash Logo</string>
+    <string name="btn_lapor">LAPOR</string>
+    <string name="bug_text">Ada "Bug"?\nLapor sekarang!</string>
+    <string name="field_title">Dimana \"Bug\"-nya?</string>
+    <string name="bug_hint">Beritahu kami "Bug"-nya</string>
+    <string name="take_shot">Ambil Foto</string>
+    <string name="check">Cek/Koreksi</string>
+    <string name="about_title">Tim Pengembangan Aplikasi</string>
+    <string name="uiux">UI/UX</string>
+    <string name="md_team">Samuel Deviko Kelvin Setiawan\nTri Waluyo (Development Team Leader)</string>
+    <string name="cloud">Layanan Cloud dan Basis Data</string>
+    <string name="cc_team">Dewi Tri Anggraini Soepomo\nPuspa Ramadhani</string>
+    <string name="mach_learn">Machine Learning dan Back-End</string>
+    <string name="ml_team">Luthfi Fathurahman\nYonvi Satria</string>
+    <string name="make_prediction">make prediction</string>
+    <string name="camera">Camera</string>
+    <string name="select_image">select image</string>
+</resources>
